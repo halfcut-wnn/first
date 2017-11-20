@@ -1,3 +1,4 @@
+//更改js
 function LoadMan(options){
         //arguments
         var target=options.target,

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="217611b8-40cc-4d8c-84c7-4b06141f3fc4" name="默认的" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/firstt.txt" afterPath="$PROJECT_DIR$/firstt.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/upload/LoadMan.js" afterPath="$PROJECT_DIR$/upload/LoadMan.js" />
     </list>
     <ignored path="first.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="firstt.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="firstt.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/firstt.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.067659">
+            <state vertical-scroll-proportion="0.0">
               <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoadMan.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/upload/LoadMan.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -42,6 +52,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/firstt.txt" />
+        <option value="$PROJECT_DIR$/upload/LoadMan.js" />
       </list>
     </option>
   </component>
@@ -115,8 +126,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/firstt.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.067659">
+        <state vertical-scroll-proportion="0.0">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/LoadMan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
           <folding />
         </state>
       </provider>
