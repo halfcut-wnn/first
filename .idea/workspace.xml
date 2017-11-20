@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="217611b8-40cc-4d8c-84c7-4b06141f3fc4" name="默认的" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/upload/LoadMan.js" afterPath="$PROJECT_DIR$/upload/LoadMan.js" />
-    </list>
+    <list default="true" id="217611b8-40cc-4d8c-84c7-4b06141f3fc4" name="默认的" comment="" />
     <ignored path="first.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,9 +77,23 @@
     <ConfirmationsSetting value="0" id="添加" />
     <ConfirmationsSetting value="0" id="移除" />
   </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
