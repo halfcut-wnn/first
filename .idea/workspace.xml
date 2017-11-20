@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="4dad8ef0-a935-455e-b092-12150812836f" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/upload" afterPath="$PROJECT_DIR$/upload" />
     </list>
+=======
+    <list default="true" id="217611b8-40cc-4d8c-84c7-4b06141f3fc4" name="默认的" comment="" />
+>>>>>>> f5a5fce60ffa2134531dc072238eb6f3b61d6447
     <ignored path="first.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,16 +27,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/upload/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-4.0">
               <caret line="4" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="7" />
+=======
+      <file leaf-file-name="firstt.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firstt.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+>>>>>>> f5a5fce60ffa2134531dc072238eb6f3b61d6447
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="LoadMan.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/upload/LoadMan.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -48,6 +61,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.135318">
               <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+=======
+      <file leaf-file-name="LoadMan.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/upload/LoadMan.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+>>>>>>> f5a5fce60ffa2134531dc072238eb6f3b61d6447
               <folding />
             </state>
           </provider>
@@ -61,9 +81,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/upload/README.md" />
         <option value="$PROJECT_DIR$/upload/LoadMan.js" />
         <option value="$PROJECT_DIR$/upload/ttt.txt" />
+=======
+        <option value="$PROJECT_DIR$/firstt.txt" />
+        <option value="$PROJECT_DIR$/upload/LoadMan.js" />
+>>>>>>> f5a5fce60ffa2134531dc072238eb6f3b61d6447
       </list>
     </option>
   </component>
@@ -90,17 +115,44 @@
     <ConfirmationsSetting value="0" id="添加" />
     <ConfirmationsSetting value="0" id="移除" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+=======
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+>>>>>>> f5a5fce60ffa2134531dc072238eb6f3b61d6447
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="4dad8ef0-a935-455e-b092-12150812836f" name="默认的" comment="" />
       <created>1511145974673</created>
       <option name="number" value="Default" />
       <updated>1511145974673</updated>
+=======
+      <changelist id="217611b8-40cc-4d8c-84c7-4b06141f3fc4" name="默认的" comment="" />
+      <created>1511148517150</created>
+      <option name="number" value="Default" />
+      <updated>1511148517150</updated>
+>>>>>>> f5a5fce60ffa2134531dc072238eb6f3b61d6447
     </task>
     <servers />
   </component>
@@ -135,6 +187,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/upload/LoadMan.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -147,14 +200,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.0">
           <caret line="4" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="7" />
+=======
+    <entry file="file://$PROJECT_DIR$/firstt.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+>>>>>>> f5a5fce60ffa2134531dc072238eb6f3b61d6447
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/upload/ttt.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.135318">
           <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+=======
+    <entry file="file://$PROJECT_DIR$/upload/LoadMan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+>>>>>>> f5a5fce60ffa2134531dc072238eb6f3b61d6447
           <folding />
         </state>
       </provider>
